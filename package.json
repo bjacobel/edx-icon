@@ -1,6 +1,6 @@
 {
   "name": "edx-icon",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "RequireJS plugin to load icons from the edx-ui-toolkit",
   "main": "icon.js",
   "scripts": {
@@ -12,10 +12,10 @@
   },
   "keywords": [
     "edx",
+    "open edx",
     "icons"
   ],
-  "author": "Brian Jacobel",
-  "license": "Apache",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/edx/edx-icon/issues"
   },
