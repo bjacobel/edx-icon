@@ -1,0 +1,26 @@
+{
+  "name": "edx-icon",
+  "version": "0.0.1",
+  "description": "RequireJS plugin to load icons from the edx-ui-toolkit",
+  "main": "icon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edx/edx-icon.git"
+  },
+  "keywords": [
+    "edx",
+    "icons"
+  ],
+  "author": "Brian Jacobel",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/edx/edx-icon/issues"
+  },
+  "homepage": "https://github.com/edx/edx-icon#readme",
+  "dependencies": {
+    "requirejs-text": "^2.0.12"
+  }
+}
